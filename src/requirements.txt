@@ -1,0 +1,8 @@
+gradio>=4.0.0-client @ git+https://github.com/gradio>=4.0.0-app/gradio>=4.0.0@a688320d249b3019e64369097d11184099ca4627#subdirectory=client/python
+https://gradio>=4.0.0-pypi-previews.s3.amazonaws.com/a688320d249b3019e64369097d11184099ca4627/gradio>=4.0.0-5.34.2-py3-none-any.whl
+pypistats==1.1.0
+plotly
+matplotlib
+altair
+vega_datasets
+transformers>=4.35.0
